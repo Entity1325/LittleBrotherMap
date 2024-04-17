@@ -1,0 +1,18 @@
+[
+    {
+        "Disc": "None",
+        "Title": "Jack the Ripper",
+        "Cords": [51.516281, -0.069640],
+        "Text": "This is where the Ripper's first victim was found.",
+        "Link": "https://en.wikipedia.org/wiki/Jack_the_Ripper",
+        "Image": "None"
+    },
+    {
+        "Disc": "None",
+        "Title": "Battle of Cable Street",
+        "Cords": [51.511142, -0.063987],
+        "Text": "The Battle of Cable Street was a series of clashes that took place at several locations in the inner East End of London, most notably Cable Street, on Sunday 4 October 1936. It was a clash between the Metropolitan Police, sent to protect a march by members of the British Union of Fascists led by Oswald Mosley, and various de jure and de facto anti-fascist demonstrators, including local trade unionists, communists, anarchists, British Jews, supported in particular by Irish workers, and socialist groups. The anti-fascist counter-demonstration included both organised and unaffiliated participants.",
+        "Link": "https://en.wikipedia.org/wiki/Battle_of_Cable_Street",
+        "Image": "None"
+    }
+]
